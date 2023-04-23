@@ -68,7 +68,7 @@
 
 .input:focus {
   font-family: heavyAvenir, sans-serif;
-  filter: linear-gradient(#fff 0%, #f6f6f7 100%);
+  background: linear-gradient(rgba(255, 255, 255, 1), rgba(246, 246, 247, 1));
   border-radius: 3px;
   
 }
